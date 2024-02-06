@@ -1,29 +1,29 @@
 [
   {
     "id": 1,
-    "name": "SIOPAO",
-    "price": 10,
-    "description": "LAMI",
-    "date added": "2024-02-05"
+    "name": "SELECTA COFFEE CRUMBLE ICE CREAM",
+    "price": 250,
+    "description": "Our Creamiest Ever with added Milkfat",
+    "date added": "2023-12-28"
   },
   {
     "id": 2,
-    "name": "LUMPIA",
-    "price": 20,
-    "description": "LAMI KAAYU",
-    "date added": "2024-02-05"
+    "name": "SELECTA DOUBLE DUTCH ICE CREAM",
+    "price": 260,
+    "description": "With added 30% Milkfat",
+    "date added": "2023-12-28"
   },
   {
     "id": 3,
-    "name": "HOTDOG",
-    "price": 39.99,
-    "description": "PULA KAAYU",
-    "date added": "2024-02-05"
+    "name": "SELECTA SUPER THICK CHOCOLATE ICE CREAM",
+    "price": 275,
+    "description": "SUPER THICK SUPER CHOCOLATE",
+    "date added": "2023-12-28"
   },
   {
     "id": 4,
-    "name": "BANANAQUE",
-    "price": 49.99,
+    "name": "SELECTA MANGO SANSRIVAL",
+    "price": 300,
     "description": "TAM IS KAAYU",
     "date added": "2024-02-05"
   }
