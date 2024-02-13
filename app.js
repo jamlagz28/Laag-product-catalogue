@@ -39,20 +39,7 @@ function displayProducts(products) {
         const img = document.createElement('img');
         img.classList.add('card-img-top');
         img.alt = product.name; // Set alt attribute for accessibility
-
-        if (product['image URL']) {
-            // Set the image source if the URL is provided
-            img.src = product['image URL'];
-        } else {
-            // Use a default placeholder image if no URL is provided
-            img.src = 'placeholder.jpg';
-        }
-
-        // Handle image load errors
-        img.onerror = function () {
-            // Replace with placeholder image if the original image fails to load
-            this.src = 'placeholder.jpg';
-        };
+        img.src = product['image URL'];
 
         const cardBody = document.createElement('div');
         cardBody.classList.add('card-body');
